@@ -3,10 +3,15 @@
     /* margin: 0; */
     box-sizing: border-box;
 }
+title::before {
+    content: "General CSS Styles";
+
+}
 body{
     content: "";
     height: 100vh;
 }
+
 nav{
     content: "";
 }
