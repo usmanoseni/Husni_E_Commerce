@@ -10,10 +10,9 @@ module.exports = {
         customgray: '#6B7280'   // Example gray
       },
       fontFamily: {
-        ancizar: ['"Ancizar Sans"', 'sans-serif'],
         merienda: ['"Merienda"', 'cursive'],
         roboto: ['"Roboto"', 'sans-serif'],
-        nova: ['"Nova Square"', 'sans-serif'],
+        merriweather: ['"Merriweather"', 'serif'],
       },
     },
   },

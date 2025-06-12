@@ -10,5 +10,16 @@ body{
 .empty{
     content: "";
 }
+#logo{
+    color: #0033A0;
+}
+#dot{
+    content:"";
+}
+#line{
+    content:"";
+}
+
+
 
 
