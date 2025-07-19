@@ -2,6 +2,10 @@
 /* .empty{
     content: "";
 } */
+ *{
+
+    box-sizing: border-box;
+ }
 #logo{
     color: #0033A0;
 }
@@ -11,8 +15,31 @@
 #line{
     content:"";
 }
+.scroll_bar::-webkit-scrollbar{
+ display: none ;
+}
+
+.Scroll_categories::-webkit-scrollbar{
+    width: 0.2rem;
+}
+.Scroll_categories::-webkit-scrollbar-track{
+    background-color: #c9c9c9;
+    border-radius: 100vw;
+    margin-block: 0.4rem;
+}
+.Scroll_categories::-webkit-scrollbar-thumb{
+    background-color: slategray;
+    border-radius: 100vw;
+     cursor: pointer;
+}
+.Scroll_categories:hover::-webkit-scrollbar{
+    width: 0.4em;
+    cursor: pointer;
+}
 
 
 
 
 
+
+ 

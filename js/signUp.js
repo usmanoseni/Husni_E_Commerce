@@ -26,4 +26,17 @@ function Password2() {
 };
  
 //code to check if the value in the password and confirm password fields are the same
+const check_password = document.getElementById("password2");
+check_password.addEventListener("input", ()=> {
+    const password = document.getElementById("password1").value;
+    const confirmPassword = document.getElementById("password2").value;
+    const errorMessage = document.getElementById("error_message");
 
+    if (password !== confirmPassword) {
+        errorMessage.textContent = "Passwords do not match.";
+        errorMessage.classList.remove("hidden");
+    } else {
+        errorMessage.textContent = "";
+        errorMessage.classList.add("hidden");
+    }
+});

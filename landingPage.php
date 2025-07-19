@@ -31,7 +31,7 @@
         </div>
     <div class="relative top-8 flex  h-[86vh] justify-between content-center font-[merriweather] px-6 md:px-12 gap-4 ">
         <div class="flex flex-col content-center justify-center w-full text-center lg:text-left">
-            <div class="text-3xl  lg:text-4xl xl:text-5xl font-extrabold mb-2 lg:mb-4 xl:mb-6  bg-gradient-to-r bg-clip-text  from-pink-600 from-35% to-blue-950 to-50% text-transparent">Husni E-Commerce Website</div>
+            <div class="text-3xl  lg:text-4xl xl:text-5xl font-extrabold mb-2 lg:mb-4 xl:mb-6  bg-gradient-to-r bg-clip-text  from-pink-700 from-35% to-blue-950 to-50% text-transparent">Husni E-Commerce Website</div>
             <div class="text-3xl lg:text-4xl xl:text-5xl  font-extrabold ">Get what you desired at low prices</div>
             <div class=" text-md lg:text-lg xl:text-xl font-[roboto] mt-4 bg-gradient-to-r bg-clip-text  from-fuchsia-950 from-20% to-indigo-950 to-30% text-transparent">We are providing you with high reliable website to purchase your goods</div>
             <div class="flex gap-4 mt-6 justify-center  lg:justify-start font-[roboto] lg:ml-4 ">
